@@ -1,0 +1,13 @@
+def greet(name):
+    print(f"Hello, {name}!")
+
+names = ["Alice", "Bob", "Charlie", "David", "Eva"]
+for name in names:
+    greet(name)
+
+def add(a, b):
+    return a + b
+
+result = add(10, 5)
+print(f"The sum of 10 and 5 is {result}")
+
