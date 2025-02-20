@@ -4,7 +4,10 @@ metadata:
   name: nginx-pod
   labels:
     app: nginx
-    version:1.4.3
+<<<<<<< HEAD
+=======
+    Version: 1.3.2
+>>>>>>> billing
 spec:
   containers:
   - name: nginx-container
