@@ -3,6 +3,8 @@ public class Swap { 192.168.100.1
    int a, b, temp;
    a = 1500
    b = 2000
+   c = 3000
+   d = 4000
    System.out.println("Before swapping : a, b = "+a+", "+ + b);
    temp = a;
    a = b;
